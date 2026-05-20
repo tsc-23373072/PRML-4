@@ -1,0 +1,9 @@
+{
+  "attention_mode": "standard",
+  "best_val_exact_match": 0.1525,
+  "test_loss": 1.6596426505308886,
+  "test_token_accuracy": 0.5322847682119205,
+  "test_exact_match": 0.13875,
+  "best_checkpoint": "checkpoints\\standard_best.pt",
+  "metrics_csv": "outputs\\standard_metrics.csv"
+}

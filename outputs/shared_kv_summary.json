@@ -1,0 +1,9 @@
+{
+  "attention_mode": "shared_kv",
+  "best_val_exact_match": 0.16,
+  "test_loss": 1.6530018861477191,
+  "test_token_accuracy": 0.5227649006622517,
+  "test_exact_match": 0.11625,
+  "best_checkpoint": "checkpoints\\shared_kv_best.pt",
+  "metrics_csv": "outputs\\shared_kv_metrics.csv"
+}
